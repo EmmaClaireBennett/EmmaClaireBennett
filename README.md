@@ -55,6 +55,18 @@ A collection of practical starter projects built to strengthen programming funda
 
 These projects are intentionally small, approachable, and extensible—great starting points for adding databases, tests, authentication, APIs, and richer user interfaces.
 
+## First Projects for New Programmers
+
+Simple projects students can build when they join a programming program and begin practicing the fundamentals:
+
+1. **Personal Portfolio Page** — Create a simple webpage introducing yourself, your interests, and your first projects.
+2. **Number Guessing Game** — Practice variables, loops, conditionals, user input, and random numbers through a small terminal game.
+3. **To-Do List** — Build a task list that lets users add, complete, and remove tasks while learning about data structures.
+4. **Quiz Application** — Create a short quiz with multiple-choice questions, score tracking, and feedback at the end.
+5. **Simple Calculator** — Build a calculator that performs basic arithmetic and handles invalid input gracefully.
+
+These projects are great first steps because they are small enough to finish, but flexible enough to improve with better design, persistence, testing, and new features.
+
 ## Beyond Code
 
 - Photography
