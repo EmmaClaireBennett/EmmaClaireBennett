@@ -41,6 +41,20 @@ I'm also interested in how technology affects the way people communicate, learn,
 - Automation and developer tools
 - Creative technology and digital culture
 
+## Student Project Showcase
+
+A collection of practical starter projects built to strengthen programming fundamentals and turn everyday student needs into useful tools:
+
+| Project | Description | Skills practiced |
+| --- | --- | --- |
+| [TaskFlow API](https://github.com/EmmaClaireBennett/taskflow-api) | A REST API for managing assignments and study tasks. | FastAPI, CRUD, validation, API design |
+| [Study Weather Dashboard](https://github.com/EmmaClaireBennett/weather-dashboard) | A browser dashboard for planning commutes and study sessions. | HTML, CSS, JavaScript, DOM updates |
+| [Student Budget Tracker](https://github.com/EmmaClaireBennett/budget-tracker) | A command-line app for recording expenses and reviewing spending. | Python, CLI programs, CSV, data aggregation |
+| [Markdown Notes CLI](https://github.com/EmmaClaireBennett/markdown-notes) | A lightweight tool for creating, listing, and searching study notes. | Node.js, file-system APIs, text search |
+| [Image Optimizer CLI](https://github.com/EmmaClaireBennett/image-optimizer) | A utility for resizing images and converting them to WebP. | Python, CLI design, Pillow, image processing |
+
+These projects are intentionally small, approachable, and extensible—great starting points for adding databases, tests, authentication, APIs, and richer user interfaces.
+
 ## Beyond Code
 
 - Photography
