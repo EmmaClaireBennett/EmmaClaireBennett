@@ -55,6 +55,8 @@ A collection of practical starter projects built to strengthen programming funda
 
 These projects are intentionally small, approachable, and extensible—great starting points for adding databases, tests, authentication, APIs, and richer user interfaces.
 
+For a detailed overview of the full collection, read the [Student Project Portfolio summary](STUDENT_PROJECTS_SUMMARY.md).
+
 ## First Projects for New Programmers
 
 Simple projects students can build when they join a programming program and begin practicing the fundamentals:
