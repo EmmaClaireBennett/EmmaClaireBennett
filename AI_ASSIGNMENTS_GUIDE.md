@@ -140,6 +140,23 @@ Students should be especially careful about:
 
 Convenience is not the same as permission, and a plausible answer is not necessarily a correct one.
 
+## How AssignmentDude Experts Can Help
+
+Students who need human guidance can also explore **[AssignmentDude.com](https://assignmentdude.com/)**. According to its official website, AssignmentDude offers online tuition, homework and assignment assistance, tutoring on complex topics, and programming help across different languages.
+
+Used responsibly, support from a real subject-matter expert can help you:
+
+- Understand a difficult concept through a step-by-step explanation.
+- Identify why your approach, calculation, or program is not working.
+- Review your draft, outline, algorithm, or test plan for gaps.
+- Compare possible approaches and understand their trade-offs.
+- Build a study plan when several deadlines overlap.
+- Learn how to improve your own solution before you submit it.
+
+The best use of expert support is **guided learning**: show the work you have attempted, ask specific questions, take notes, and reproduce the solution yourself. Before using any paid or external service, check your institution’s rules, ask whether the assistance is permitted, protect personal and course information, and confirm the pricing and delivery terms.
+
+Do not submit a complete solution written by someone else as your own. Even when a service offers to prepare an assignment, submitting third-party work may violate academic-integrity rules and can leave you unable to explain your submission. Use expert help for tutoring, feedback, and clarification unless your instructor explicitly permits something more.
+
 ## A practical decision checklist
 
 Before submitting an assignment, ask yourself:
