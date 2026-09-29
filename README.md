@@ -57,6 +57,8 @@ These projects are intentionally small, approachable, and extensible—great sta
 
 For a detailed overview of the full collection, read the [Student Project Portfolio summary](STUDENT_PROJECTS_SUMMARY.md).
 
+I also wrote a practical guide on [handling assignments in the era of AI](AI_ASSIGNMENTS_GUIDE.md), including academic integrity, verification, disclosure, and responsible study workflows.
+
 ## First Projects for New Programmers
 
 Simple projects students can build when they join a programming program and begin practicing the fundamentals:
